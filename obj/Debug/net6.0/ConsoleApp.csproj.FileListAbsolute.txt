@@ -12,3 +12,4 @@ C:\Users\LENOVO\Documents\Phase4 simplilearn Practice\16 feb\ConsoleApp\ConsoleA
 C:\Users\LENOVO\Documents\Phase4 simplilearn Practice\16 feb\ConsoleApp\ConsoleApp\obj\Debug\net6.0\ConsoleApp.pdb
 C:\Users\LENOVO\Documents\Phase4 simplilearn Practice\16 feb\ConsoleApp\ConsoleApp\obj\Debug\net6.0\ConsoleApp.genruntimeconfig.cache
 C:\Users\LENOVO\Documents\Phase4 simplilearn Practice\16 feb\ConsoleApp\ConsoleApp\obj\Debug\net6.0\ref\ConsoleApp.dll
+C:\Users\LENOVO\Documents\Phase4 simplilearn Practice\16 feb\ConsoleApp\ConsoleApp\obj\Debug\net6.0\ConsoleApp.sourcelink.json
