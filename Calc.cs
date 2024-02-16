@@ -26,7 +26,7 @@ namespace ConsoleApp
         }
         public void Avg(double n1, double n2)
         {
-            Console.WriteLine("Result after division :\t" + (n1 / n2)/2);
+            Console.WriteLine("Result after average :\t" + (n1 / n2)/2);
         }
 
     }
